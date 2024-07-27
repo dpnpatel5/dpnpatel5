@@ -50,9 +50,25 @@ These are some of the major technologies that I use or have worked on in the pas
 |<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">|<img title="GDB" alt="GDB" width="40px" src="https://www.sourceware.org/gdb/images/archer.svg">|<img title="CMake" alt="CMake" width="40px" src="https://cmake.org/wp-content/uploads/2023/08/CMake-Logo.svg">|
 <br>
 
-## Some of my stats :bar_chart:
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=dpnpatel5&show_icons=true&theme=radical&include_all_commits=true">|
-|--|
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=dpnpatel5&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=dpnpatel5&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpnpatel5&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=dpnpatel5&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 <br>
