@@ -28,8 +28,8 @@ These are some of the major technologies that I use or have worked on in the pas
 |--|
 
 **Libraries, Frameworks, Infrastructure**
-<img title="gRPC" alt="gRPC" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/grpc/grpc.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="PySpark" alt="PySpark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
-|--|--|--|--|
+<img title="gRPC" alt="gRPC" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/grpc/grpc.png">|<img title="osip2" alt="osip2" width="40px" src="https://www.gnu.org/software/osip/osip-logo-60p.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="PySpark" alt="PySpark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">
+|--|--|--|--|--|
 
 **OS**
 <img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg">|<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="Rhel" alt="Rhel" width="40px" src="https://www.redhat.com/rhdc/managed-files/rhb-logos-red_hat_logo-hero_image_2.svg">
