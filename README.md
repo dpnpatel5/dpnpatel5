@@ -22,9 +22,9 @@ These are some of the major technologies that I use or have worked on in the pas
 
 
 **Databases**
-| MySql | SQLite | Redshift | Couchbase | 
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40"/>|<img title="Redshift" alt="Redshift" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Amazon-Redshift-Logo.svg">|<img src="https://www.couchbase.com/wp-content/themes/couchbase-com/images/Logo-2000.svg" title="Couchbase" alt="Couchbase" width="60"/>|
+| MySql | SQLite | Redshift | Couchbase | MongoDB |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40"/>|<img title="Redshift" alt="Redshift" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Amazon-Redshift-Logo.svg">|<img src="https://www.couchbase.com/wp-content/themes/couchbase-com/images/Logo-2000.svg" title="Couchbase" alt="Couchbase" width="60"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" title="MongoDB" alt="MongoDB" width="60"/>|
 
 **Embedded System**
 | Yocto |
@@ -33,9 +33,9 @@ These are some of the major technologies that I use or have worked on in the pas
 
 
 **Libraries, Frameworks, Infrastructure**
-| gRPC | osip2 | Docker | AWS | PySpark | 
-|----------|----------|----------|----------|----------|
-|<img title="gRPC" alt="gRPC" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/grpc/grpc.png">|<img title="osip2" alt="osip2" width="40px" src="https://www.gnu.org/software/osip/osip-logo-60p.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="PySpark" alt="PySpark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">|
+| gRPC | JWT | osip2 | Docker | AWS | PySpark | 
+|----------|----------|----------|----------|----------|----------|
+|<img title="gRPC" alt="gRPC" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/grpc/grpc.png">||<img title="jwt" alt="jwt" width="40px" src="https://jwt.io/img/pic_logo.svg">|<img title="osip2" alt="osip2" width="40px" src="https://www.gnu.org/software/osip/osip-logo-60p.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="PySpark" alt="PySpark" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg">|
 
 
 **OS**
